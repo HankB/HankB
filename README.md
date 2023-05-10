@@ -1,4 +1,13 @@
+# Hank B
+
 ### Hi there 👋
+
+- 🔭 I’m currently working on too many things!
+  - ZFS related stuff - scripting.
+  - Embedded stuff - ESP32/ESP-8266
+  - Learning Rust
+  - Learning Go
+- I'm a rabid Penguinista. I prefer Debian but have dabbled with other distros and even have a FreeBSD server.
 
 <!--
 **HankB/HankB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
