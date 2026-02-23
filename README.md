@@ -3,11 +3,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on too many things!
-  - Thrashing a certain aspect of OpenZFS to reveal a bug. <https://github.com/HankB/provoke_ZFS_corruption>
   - Embedded stuff - ESP32/ESP-8266 Currently <https://github.com/HankB/Fun_with_ESP8266>
   - [Raspberry Pi Multi-boot](https://github.com/HankB/pmb) Currently set aside.
-  - Learning Rust
-  - Learning Go
+  - Wondering what I could do to help Debian.
 - I'm a rabid Penguinista. I prefer Debian but have dabbled with other distros and even have a FreeBSD server.
 
 <!--
